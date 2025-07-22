@@ -76,7 +76,7 @@ This dashboard was designed to analyze hotel KPIs across multiple properties and
 ## 🤝 Connect
 
 If you liked this project or have feedback:
-- 🌐 [LinkedIn](www.linkedin.com/in/dinesh715)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/dinesh715/)  
 - 📧 dineshapple14@gmail.com
 
 ---
